@@ -1,0 +1,17 @@
+D:\IT\Work4\C#\Calculator\bin\Debug\Calculator.exe.config
+D:\IT\Work4\C#\Calculator\bin\Debug\Calculator.exe
+D:\IT\Work4\C#\Calculator\bin\Debug\Calculator.pdb
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\IT\Work4\C#\Calculator\obj\Debug\MainWindow.g.cs
+D:\IT\Work4\C#\Calculator\obj\Debug\App.g.cs
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator_Content.g.cs
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\IT\Work4\C#\Calculator\obj\Debug\MainWindow.baml
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator.g.resources
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator.exe
+D:\IT\Work4\C#\Calculator\obj\Debug\Calculator.pdb
+D:\IT\Work4\C#\Calculator\obj\Debug\App.baml
